@@ -1,0 +1,11 @@
+pymongo
+python-dotenv
+pydantic
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+sentence-transformers
+pandas
+jupyter
+ipykernel
